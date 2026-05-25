@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+body{
+    margin: 0;
+    background-color: white;
+}
+header{
+    background-color: black;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+header > h1{
+    color: white;
+    font-size: 50px;
+
+}
+
+header > p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 2em;
+    padding: 15px;
+    
+}
+#pag2{
+    background-image: url(imagens/background001.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10px;
+    
+    
+}
+.pi{
+    background-color: rgba(0, 0, 0, 0.506);
+    width: 400px;
+    max-width: 90%;
+    color: aliceblue;
+    padding: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.592);
+}
+#pag5{
+    background-image: url(imagens/background002.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    padding: 10px;
+}
+
+footer{
+    background-color: black;
+    color: rgb(246, 239, 239);
+    text-align: center;
+    
+}
+footer > p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
