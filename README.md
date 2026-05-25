@@ -21,4 +21,4 @@ Durante o desenvolvimento, foquei-me em três pilares principais:
 
 ## 🚀 Como Visualizar
 
-Você pode acessar o projeto diretamente através do link do GitHub Pages: https://lucasmms-dev.github.io/cordel-moderno/
+Você pode acessar o projeto diretamente através do link do GitHub Pages: [https://lucasmms-dev.github.io/cordel-moderno/](https://lucasmms-dev.github.io/Projeto-Cordel-Moderno/)
